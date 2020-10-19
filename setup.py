@@ -6,7 +6,7 @@ def parse_requirements(requirement_file):
 
 setup(
     name='uncommon',
-    version="0.0.3",
+    version="0.0.4",
     packages=find_packages(exclude=['tests*']),
     license='MIT',
     description='A Python package of uncommon words created using carcass',

@@ -204,7 +204,7 @@ nostril
 nuggets
 oatmeal
 oboe
-"oclock",
+oclock
 octopus
 odour
 ointment
@@ -1326,8 +1326,8 @@ quotient
 teeth
 shell
 neck
-2-faced
-2-faces
+two-faced
+two-faces
 abnormal
 abolish
 abominable
@@ -4333,7 +4333,7 @@ nauseate
 nauseates
 nauseating
 nauseatingly
-naÔve
+naove
 nebulous
 nebulously
 needless
